@@ -39,7 +39,7 @@
   }
   .container {
     font-family: 'Roboto', serif;
-    background-image:url(/photos/theater-image-background.png);
+    background-image:url(photos/theater-image-background.png);
     background-color: black;
     display: flexbox;
 }
